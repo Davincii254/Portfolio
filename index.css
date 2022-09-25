@@ -14,6 +14,9 @@ body{
     transition: all 300ms linear;
     perspective: 800px;
 }
+p{
+  color: #afa86b;
+}
 a {
     cursor: pointer;
 }
@@ -497,7 +500,7 @@ body.nature-on .nature-section {
     background-position: center center;
     background-size: 65%;
   background-repeat: no-repeat;
-    background-image: url('https://assets.codepen.io/1462889/fcy.png');
+    background-image: url('http://static.movingpackets.net/2013/12/github-logo-transparent.jpg');
     box-shadow: 0 0 0 2px rgba(255,255,255,.1);
     transition: opacity .2s, border-radius .2s, box-shadow .2s;
     transition-timing-function: ease-out;
