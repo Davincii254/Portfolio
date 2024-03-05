@@ -693,28 +693,31 @@ body.nature-on .nature-section {
     }
   }
   .html span{
-    width: 84%;
+    width: 90%;
   }
   .css span{
-    width: 92%;
+    width: 90%;
   }
   .JavaScript span{
-    width: 70%;
+    width: 80%;
   }
   .react span{
+    width: 80%;
+  }
+  .reactNative span{
     width: 70%;
   }
   .ruby span{
     width: 75%;
   }
   .android span {
-    width: 55%;
+    width: 60%;
   }
   .rails span{
     width: 70%;
   }
   .python span{
-    width: 40%;
+    width: 60%;
   }
   @keyframes showText2 {
     100%{
@@ -722,28 +725,31 @@ body.nature-on .nature-section {
     }
   }
   .html span::after{
-    content: "84%";
+    content: "90%";
   }
   .css span::after{
-    content: "92%";
+    content: "90%";
   }
   .JavaScript span::after{
-    content: "70%";
+    content: "80%";
   }
   .react span::after{
+    content: "80%";
+  }
+  .reactNative span::after{
     content: "70%";
   }
   .ruby span::after{
     content: "75%";
   }
   .android span::after{
-    content: "55%";
+    content: "60%";
   }
   .rails span::after{
     content: "70%";
   }
   .python span::after{
-    content: "40%";
+    content: "60%";
   }
   /* Media Query */
   /* For tablet */
